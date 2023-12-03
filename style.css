@@ -1,0 +1,50 @@
+.nav-list{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 250px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.logo{
+    color: #FED136;
+}
+.nav-list-link{
+    color: #FED136;
+}
+.services{
+    display: flex;
+    justify-content: center;
+}
+.info{
+    display: flex;
+}
+.info-link{
+    display: flex;
+    justify-content: center;
+}
+.proin{
+    margin: 0 auto;
+    color: #777777;
+}
+.input{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color:#222222;
+}
+body{
+    margin: 0;
+}
+button{
+    color: #FED136;
+}
